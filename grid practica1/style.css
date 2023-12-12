@@ -1,0 +1,17 @@
+.item{
+    border-radius: 20px;
+}
+
+.icono{
+    border: solid ;
+    height: auto;
+    display: flex;
+    justify-content: end;
+ 
+    
+    
+}
+img{
+    width: 45px;
+    margin-right: 10px;
+}

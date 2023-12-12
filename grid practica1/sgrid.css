@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: black;
+}
+
+.grid{
+    width: 90%;
+    height: 500px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    color: white;
+    
+
+}
+
+.icono1{
+    background:#FF5733;
+}
+.icono2{
+    background:#09FBC4 ;
+}
+.icono3{
+    background:#9F0D0D ;
+}
+.icono4{
+    background:#16DE68 ;
+}
+.icono5{
+    background:#bc17f8 ;
+}
+.icono6{
+    background:#FAF701 ;
+}
+.container7{
+    background:#8749df ;
+}
