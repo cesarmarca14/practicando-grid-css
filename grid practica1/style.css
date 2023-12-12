@@ -2,16 +2,94 @@
     border-radius: 20px;
 }
 
+.container{
+   
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+    background-color: rgb(38, 20, 86);
+    height: 150px;
+    
+   
+
+}
 .icono{
-    border: solid ;
-    height: auto;
+    height: 14px;
     display: flex;
-    justify-content: end;
- 
-    
-    
+    justify-content: right;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 img{
-    width: 45px;
+    height: 30px;
     margin-right: 10px;
 }
+
+.parrafo{
+    font-size:10px; 
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.puntos{
+    margin-left: 50px;
+    margin-top: 8px;
+    font-size: 20px;
+}
+.containerParrafo{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-around;
+}
+.hora{
+    margin-top: 15px;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.fecha{
+    font-size: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.628);
+}
+.main{
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+}
+.sub_container7{
+    background: #3f1fbe;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-start-end-radius: 20px;
+    border-start-start-radius: 20px;
+    height: 220px;
+}
+
+.img-jaremy{
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 30px;
+    border: solid 2px ;
+    border-radius: 20px;
+}
+.Report{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 10px;
+}
+.jeremy{
+    font-size: 30px;
+    margin-left: 15px;
+}
+.sub-tex{
+    font-size: 10px;
+    margin-left: 10px;
+    line-height: 3cqh;
+
+}
+

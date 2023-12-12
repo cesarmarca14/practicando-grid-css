@@ -24,8 +24,6 @@
 }
 .grid_item1 {
   background: rgb(255, 0, 0);
-  grid-template-rows:area;
-  
 }
 .grid_item2 {
   background: rgb(33, 204, 50);
